@@ -1,2 +1,1 @@
-# Spring
-inflearn Sprint 강의
+inflearn Sprin 강의
